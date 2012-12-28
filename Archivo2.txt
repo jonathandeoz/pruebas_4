@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+Estos datos van a tener una modificacion temporal
+=======
+https://github.com/jonathandeoz/prueba_3.git
+jonathandeoz/prueba_3.git
+git@github.com:jonathandeoz/prueba_3.git
+>>>>>>> iss2
